@@ -191,7 +191,7 @@ body {
     height: inherit;
     text-indent: -9999px;
     background-color: rgba(var(--carousel-item-empty-color-rgb), 0.5);
-    background-image: url("Z2.png");
+    background-image: url("Z2.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
